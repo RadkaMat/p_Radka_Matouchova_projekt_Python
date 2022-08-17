@@ -4,7 +4,7 @@
     Analýza půjčování kol služkou "bike sharing" v městě Edinburk (hl. město Skotska) provozovanou firmou Just Eat Cycles
     Zdroj dat pro stažení: https://engeto.com/files/db_portal_template.sql 
     Zdroj dat pro tento projekt: Madia DB server data.engeto.com
-    Použitý software pro vypracování analýzy: Jupyter Notebook 6.4.8, Python 3.10 (ipykernel)
+    Použitý software pro vypracování analýzy: Jupyter Notebook 6.4.8, Python 3.9.12 (ipykernel)
 
 Zdrojové tabulky:
     edinburgh_bikes - obsahuje 438 259 záznamů o výpůjčkách kol ze 169 cyklicktických stanic za časové období od 2018-09-15 08:52:05 do 2021-07-01 00:20:36.
