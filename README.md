@@ -1,7 +1,7 @@
 ## Autor projektu: Radka M. ##
 
 # python_projekt_edinburkska_kola
-    Analýza půjčování kol služkou "bike sharing" v městě Edinburk provozovanou firmou Just Eat Cycles
+    Analýza půjčování kol služkou "bike sharing" v městě Edinburk (hl. město Skotska) provozovanou firmou Just Eat Cycles
     Zdroj dat pro stažení: https://engeto.com/files/db_portal_template.sql 
     Pro analýzu bude použit jiný zdroj: Madia DB server data.engeto.com
     Použitý software pro vypracování analýzy: Jupyter Notebook 6.4.8, Python 3 (ipykernel)
