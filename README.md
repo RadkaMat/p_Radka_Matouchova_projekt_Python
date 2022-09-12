@@ -9,7 +9,7 @@
 Zdrojové tabulky:
     edinburgh_bikes - obsahuje 438 259 záznamů o výpůjčkách kol ze 170 cyklicktických stanic za časové období od 2018-09-15 08:52:05 do 2021-07-01 00:20:36.
     edinburgh_weather - obsahuje 6 336 záznamů o naměřených teplotách a dalších údajů o počasí za časové období o 2018-09-01 00:00:00 do 2020-10-31 21:00:00.
-    pozn. nebylo možné sehnat novější data od Just Eat Cycles, protože ukončili činnost k datu 17.9.2021.
+    pozn. nebylo možné sehnat novější data od Just Eat Cycles, protože ukončili činnost k datu 2021-09-17.
     
 Na základě dat o všech výpůjčkách zjistěte minimálně následující informace:
 
