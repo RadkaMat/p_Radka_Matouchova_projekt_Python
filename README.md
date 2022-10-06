@@ -5,8 +5,9 @@
     V Edinburghu, stejně jako v dalších městech, funguje systém "bike sharing" - ve městě jsou stanice s koly, člověk si může nějaké půjčit
     a potom ho vrátit v nějaké další stanici. Problém je, že v některých stanicích se kola pravidelně hromadí a jinde naopak chybí. 
     Provozovatel kol, firma Just Eat Cycles, zadala projekt, jehož cílem je systém zefektivnit.
-    Zdroj dat pro stažení: https://engeto.com/files/db_portal_template.sql 
-    Zdroj dat pro tento projekt: Madia DB server data.engeto.com
+    Zdroj dat pro stažení tabulky kol: https://drive.google.com/file/d/1K2f_LIzwTlY_GtjIaPpSg1GYr9HrW1Ml/view?usp=sharing
+    Zdroj dat pro stažení tabulky počasí: https://drive.google.com/file/d/16zOF83DVtW7DWoLPdS0cN5gadN0MNs0S/view?usp=sharing
+    Pro tento projekt je použit local host MariaDB s databází "edinburkska-kola".
     Použitý software pro vypracování analýzy: Jupyter Notebook 6.4.8 (anaconda3), Python 3.9.12 (ipykernel)
 
 Zdrojové tabulky:
