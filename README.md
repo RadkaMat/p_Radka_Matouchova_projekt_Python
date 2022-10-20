@@ -5,7 +5,7 @@
     V Edinburghu, stejně jako v dalších městech, funguje systém "bike sharing" - ve městě jsou stanice s koly, člověk si může nějaké půjčit
     a potom ho vrátit v nějaké další stanici. Problém je, že v některých stanicích se kola pravidelně hromadí a jinde naopak chybí. 
     Provozovatel kol, firma Just Eat Cycles, zadala projekt, jehož cílem je systém zefektivnit.
-    Databáze tabulel kol a počasí pro stažení: https://drive.google.com/file/d/1S3EiKZW3yGG0OOLNm_iNbdXcif_KcW16/view
+    Databáze tabulel kol a počasí pro stažení: https://drive.google.com/file/d/1gkT4IavMakM-Ao-1jjaL3OdMG0zZOPh5/view?usp=sharing
     Pro tento projekt stačí dupm database na local host MariaDB.
     Použitý software pro vypracování analýzy: Jupyter Notebook 6.4.8 (anaconda3), Python 3.9.12 (ipykernel)
 
